@@ -13675,8 +13675,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "adobeWhiteCNRFull",
     "EnglishItemName": "Adobe White Full Corner",
@@ -14064,8 +14064,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "barbedWireSheet",
     "EnglishItemName": "Barbed Wire",
@@ -14193,8 +14193,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Science",
+    "SkillLevelRequired": 15
 }, {
     "ItemName": "brickBlock",
     "EnglishItemName": "Bricks",
@@ -14212,8 +14212,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "brickCNRFull",
     "EnglishItemName": "Brick Full Corner",
@@ -14231,8 +14231,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "brickCNRInside",
     "EnglishItemName": "Brick Inside Corner",
@@ -14250,8 +14250,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "brickCNRRamp",
     "EnglishItemName": "Brick Ramp Corner",
@@ -14269,8 +14269,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "brickDecayedBlock",
     "EnglishItemName": "Decayed Brick",
@@ -14288,8 +14288,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "brickPaversBlock",
     "EnglishItemName": "Brick Pavers",
@@ -14307,8 +14307,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "brickPaversStairs25",
     "EnglishItemName": "Brick Pavers Stairs",
@@ -14326,8 +14326,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "brickPlate",
     "EnglishItemName": "Brick Plate",
@@ -14345,8 +14345,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "brickRamp",
     "EnglishItemName": "Brick Ramp",
@@ -14364,8 +14364,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "burntForestGround",
     "EnglishItemName": "Burnt Forest Ground",
@@ -14501,8 +14501,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "clayRoofBlock",
     "EnglishItemName": "Clay Roof Block",
@@ -14808,8 +14808,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntStorageAmmo",
     "EnglishItemName": "Storage Ammo",
@@ -15016,8 +15016,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFrameRamp",
     "EnglishItemName": "Cobblestone Frame Ramp",
@@ -15035,8 +15035,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFrameWedge",
     "EnglishItemName": "Cobblestone Frame Wedge",
@@ -15054,8 +15054,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFrameWedgeTip",
     "EnglishItemName": "Cobblestone Frame Wedge Tip",
@@ -15073,8 +15073,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFramePlate",
     "EnglishItemName": "Cobblestone Frame Plate",
@@ -15092,8 +15092,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFrameCNRFull",
     "EnglishItemName": "Cobblestone Frame Full Corner",
@@ -15111,8 +15111,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFrameCNRInside",
     "EnglishItemName": "Cobblestone Frame Inside Corner",
@@ -15130,8 +15130,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFramePillar100",
     "EnglishItemName": "Cobblestone Frame Pillar 100",
@@ -15149,8 +15149,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFramePillar50",
     "EnglishItemName": "Cobblestone Frame Pillar 50",
@@ -15168,8 +15168,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFramePole",
     "EnglishItemName": "Cobblestone Frame Pole",
@@ -15187,8 +15187,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneFrameStairs25",
     "EnglishItemName": "Cobblestone Frame Stairs",
@@ -15206,8 +15206,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneArrowSlitHalf",
     "EnglishItemName": "Cobblestone Arrow Slit",
@@ -15228,8 +15228,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cobblestoneBlock",
     "EnglishItemName": "Cobblestone Block",
@@ -15795,8 +15795,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Blacksmith",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "garageDoorMetal_v1",
     "EnglishItemName": "Garage Door Metal",
@@ -15842,8 +15842,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Blacksmith",
+    "SkillLevelRequired": 15
 }, {
     "ItemName": "glassShowerBlock",
     "EnglishItemName": "Shower Glass Block",
@@ -15864,8 +15864,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Blacksmith",
+    "SkillLevelRequired": 15
 }, {
     "ItemName": "glassIndustrialCTRPlate",
     "EnglishItemName": "Industrial Glass Centered",
@@ -15886,8 +15886,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Blacksmith",
+    "SkillLevelRequired": 15
 }, {
     "ItemName": "glassIndustrial02CTRPlate",
     "EnglishItemName": "Industrial Glass 2 Centered",
@@ -15908,8 +15908,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Blacksmith",
+    "SkillLevelRequired": 15
 }, {
     "ItemName": "glassBusinessSheet",
     "EnglishItemName": "Business Glass Pane",
@@ -15930,8 +15930,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Blacksmith",
+    "SkillLevelRequired": 15
 }, {
     "ItemName": "glassBusinessCTRSheet",
     "EnglishItemName": "Business Glass Centered",
@@ -15952,8 +15952,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Blacksmith",
+    "SkillLevelRequired": 15
 }, {
     "ItemName": "glassBusinessBlock",
     "EnglishItemName": "Business Glass Block",
@@ -15974,8 +15974,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Blacksmith",
+    "SkillLevelRequired": 15
 }, {
     "ItemName": "grass",
     "EnglishItemName": "Grassy Ground",
@@ -16056,8 +16056,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Blacksmith",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "ironDoor1_v1",
     "EnglishItemName": "Hard Metal Door",
@@ -16696,8 +16696,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "mineHubcap",
     "EnglishItemName": "Hubcap Land Mine",
@@ -16724,8 +16724,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "mineAirFilter",
     "EnglishItemName": "Air Filter Land Mine",
@@ -16752,8 +16752,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "mineCookingPot",
     "EnglishItemName": "Cooking Pot Mine",
@@ -16777,8 +16777,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "officeChair01",
     "EnglishItemName": "Office Chair",
@@ -16948,8 +16948,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "railingOldWoodSheet",
     "EnglishItemName": "Wood Railing",
@@ -16983,8 +16983,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 50
 }, {
     "ItemName": "rebarFrameCNRInside",
     "EnglishItemName": "Rebar Frame Inner Corner",
@@ -17040,8 +17040,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Masonry",
+    "SkillLevelRequired": 50
 }, {
     "ItemName": "redWoodBlock",
     "EnglishItemName": "Red Wood Block",
@@ -17323,8 +17323,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "scrapIronStairs25",
     "EnglishItemName": "Scrap Stairs",
@@ -17519,8 +17519,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 5
 }, {
     "ItemName": "snow",
     "EnglishItemName": "Snow",
@@ -17645,8 +17645,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "trapSpikesNew",
     "EnglishItemName": "Wood Spikes",
@@ -17661,8 +17661,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "treePlant02",
     "EnglishItemName": "Potted Plant",
@@ -17923,8 +17923,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "woodFrameCNRFull",
     "EnglishItemName": "Wood Frame Full Corner",
@@ -17948,8 +17948,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "woodFrameCNRInside",
     "EnglishItemName": "Wood Frame Inner Corner",
@@ -17973,8 +17973,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "woodFrameRamp",
     "EnglishItemName": "Wood Frame Ramp",
@@ -17998,8 +17998,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "woodFrameWedge",
     "EnglishItemName": "Wood Frame Wedge",
@@ -18023,8 +18023,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "woodLogPillar100",
     "EnglishItemName": "Wood Log",
@@ -18055,8 +18055,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "woodPillar100",
     "EnglishItemName": "Wood Pillar 100",
@@ -18724,8 +18724,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSLockers",
     "EnglishItemName": "Lockers",
@@ -18740,8 +18740,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSFridge",
     "EnglishItemName": "Refrigerator",
@@ -18768,8 +18768,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSFridgeBottom",
     "EnglishItemName": "Fridge Bottom",
@@ -18790,8 +18790,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSFridgeTop",
     "EnglishItemName": "Fridge Top",
@@ -18812,8 +18812,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSBookcase",
     "EnglishItemName": "Bookcase",
@@ -18828,8 +18828,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSMedicineCabinet",
     "EnglishItemName": "Medicine Cabinet",
@@ -18844,8 +18844,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSPillCase",
     "EnglishItemName": "Pill Case",
@@ -18860,8 +18860,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSBeerCooler",
     "EnglishItemName": "Drink Cooler",
@@ -18885,8 +18885,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSWallSafe",
     "EnglishItemName": "Wall Safe",
@@ -18923,8 +18923,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSGasPump",
     "EnglishItemName": "Gas Pump",
@@ -18942,8 +18942,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Carpentry",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "cntEPSDrawer",
     "EnglishItemName": "Wall Drawer",
@@ -19200,8 +19200,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "trussingWallSpike",
     "EnglishItemName": "Trussing Wall Spike",
@@ -19219,8 +19219,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "trapAdhesive",
     "EnglishItemName": "Adhesive Trap",
@@ -19238,8 +19238,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "trapAdhesiveSpike",
     "EnglishItemName": "Adhesive Spike",
@@ -19257,8 +19257,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "animalSnare",
     "EnglishItemName": "Animal Snare",
@@ -19323,8 +19323,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 30
 }, {
     "ItemName": "trapNailMine",
     "EnglishItemName": "Nail Mine",
@@ -19345,8 +19345,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 20
 }, {
     "ItemName": "trapFall",
     "EnglishItemName": "Fall Trap",
@@ -19367,8 +19367,8 @@
         }]
     }],
     "QuestRewardFrom": null,
-    "SkillRequired": null,
-    "SkillLevelRequired": 0
+    "SkillRequired": "Traps",
+    "SkillLevelRequired": 10
 }, {
     "ItemName": "lightPorchBrass",
     "EnglishItemName": "Brass Porch Light",
